@@ -1,0 +1,9 @@
+numpy==1.21.1
+scipy
+opencv-python-headless
+tensorboard
+mmcv
+lmdb
+tqdm
+scikit-image
+scikit-learn
