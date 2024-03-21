@@ -1,6 +1,6 @@
 # [CVPR 2024] Diversity-aware Channel Pruning for StyleGAN Compression
 
-### [Paper](https://arxiv.org/abs/2312.09008) / [Project Page](https://jiwoogit.github.io/DCP-GAN_site/)
+### [Paper](https://arxiv.org/abs/2403.13548) / [Project Page](https://jiwoogit.github.io/DCP-GAN_site/)
 ![imgs](asset/teaser.png)
 
 ---
