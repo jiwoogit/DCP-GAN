@@ -78,6 +78,8 @@ python get_recon.py \
 ```
 
 ### FID
+We utilize pre-calculated features for FID evaluation, accessible via this [link.](https://drive.google.com/drive/folders/1PqvIcAnVFvNyW_OTCwW0QceqNqayAhF0?usp=sharing)
+Please copy the selected features to the "./Evaluation" directory before evaluation (FFHQ256 is already in the repository).
 ```
 python get_fid.py --ckpt ./Model/student_model/dcp_ffhq256.pt --data_type ffhq # ffhq dataset
 python get_fid.py --ckpt ./Model/student_model/dcp_horse.pt --data_type horse # lsun horse dataset
@@ -87,6 +89,5 @@ python get_fid.py --ckpt ./Model/student_model/dcp_horse.pt --data_type horse # 
 I will update bibtex soon.
 <!-- If you find our work useful, please consider citing and star: -->
 ```BibTeX
-
-Comming soon
+Commin soon!
 ```
