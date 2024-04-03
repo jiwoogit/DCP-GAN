@@ -89,5 +89,9 @@ python get_fid.py --ckpt ./Model/student_model/dcp_horse.pt --data_type horse # 
 I will update bibtex soon.
 <!-- If you find our work useful, please consider citing and star: -->
 ```BibTeX
-Commin soon!
-```
+@article{chung2024diversity,
+  title={Diversity-aware Channel Pruning for StyleGAN Compression},
+  author={Chung, Jiwoo and Hyun, Sangeek and Shim, Sang-Heon and Heo, Jae-Pil},
+  journal={arXiv preprint arXiv:2403.13548},
+  year={2024}
+}```
