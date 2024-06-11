@@ -1,6 +1,6 @@
 # [CVPR 2024] Diversity-aware Channel Pruning for StyleGAN Compression
 
-### [Paper](https://arxiv.org/abs/2403.13548) / [Project Page](https://jiwoogit.github.io/DCP-GAN_site/)
+### [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Chung_Diversity-aware_Channel_Pruning_for_StyleGAN_Compression_CVPR_2024_paper.html) / [Arxiv](https://arxiv.org/abs/2403.13548) / [Project Page](https://jiwoogit.github.io/DCP-GAN_site/)
 ![imgs](asset/teaser.png)
 
 ---
@@ -86,13 +86,14 @@ python get_fid.py --ckpt ./Model/student_model/dcp_horse.pt --data_type horse # 
 ```
 
 ## Citation
-I will update bibtex soon.
 <!-- If you find our work useful, please consider citing and star: -->
 ```BibTeX
-@article{chung2024diversity,
-  title={Diversity-aware Channel Pruning for StyleGAN Compression},
-  author={Chung, Jiwoo and Hyun, Sangeek and Shim, Sang-Heon and Heo, Jae-Pil},
-  journal={arXiv preprint arXiv:2403.13548},
-  year={2024}
+@InProceedings{Chung_2024_CVPR,
+    author    = {Chung, Jiwoo and Hyun, Sangeek and Shim, Sang-Heon and Heo, Jae-Pil},
+    title     = {Diversity-aware Channel Pruning for StyleGAN Compression},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+    pages     = {7902-7911}
 }
 ```
