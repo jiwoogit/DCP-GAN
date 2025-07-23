@@ -14,6 +14,8 @@
 4. [Inference](#inference)
 5. [Evaluation](#evaluation)
 
+> **StyleGAN3 support:**  
+> We also provide StyleGAN3-verison implementation in the [`stylegan3`](https://github.com/jiwoogit/DCP-GAN/tree/stylegan3) branch.
 
 ### Pre-trained weights
 
